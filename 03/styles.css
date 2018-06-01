@@ -44,3 +44,7 @@ h1 {
   margin-bottom: 35px;
   padding: 20px;
 }
+
+.note strong {
+  color:  white;
+}
