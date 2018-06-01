@@ -64,7 +64,7 @@ h2 {
   margin: 15px 0 5px 0;
   overflow: hidden;
 }
-/* Создание боковой панели */
+
 .sidebar {
   width: 30%;
   float: right;
@@ -81,4 +81,19 @@ h2 {
   border: none;
   margin-top: 0;
   padding: 0;
+}
+
+p {
+  font-size: 1.2em;
+  text-indent: 1em;
+  color: rgb(25, 50, 75);
+}
+
+.copyright {
+  font-size: .8em;
+  border-top: 2px solid rgb(252, 101, 18);
+  margin: 15px -15px 0 -15px;
+  padding-top: 15px;
+  text-transform: uppercase;
+  text-align: center;
 }
