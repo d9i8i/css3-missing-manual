@@ -3,5 +3,13 @@ body {
 }
 
 p {
-  color: rgb(50, 122, 167)
+  color: rgb(50, 122, 167);
+}
+
+.content {
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: rgb(194, 91, 116);
+  max-width: 900px;
+  margin: 0 auto;
 }
