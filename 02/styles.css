@@ -40,10 +40,15 @@ h2 {
 }
 
 p, address {
-  font-family: 'Palatino Linotype' Basckerville, serif;
+  font-family: 'Palatino Linotype' Baskerville, serif;
   font-size: 1.25em;  
   color: #616161;
   line-height: 150%;
   margin-top: 10px;
   margin-left: 60px;
+}
+
+address {
+  background: url(images/tractor.png) 0/2em no-repeat ;
+  padding-left: 60px;
 }
